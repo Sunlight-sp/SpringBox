@@ -1,0 +1,3 @@
+ALTER TABLE REGISTRATION_USERS
+	DROP roll,
+    DROP address;
